@@ -1,10 +1,10 @@
 # LOGIN WITH FACEBOOK SDK AND NATIVE PHP
 
 Example
+			
+![alt text](https://github.com/santiagovasquez/login-with-facebook-phpnative/blob/master/login-facebook.jpg)
 
-![alt text](https://github.com/santiagovasquez/login-with-facebook-phpnative/login-facebook.png)
-
-![alt text](https://github.com/santiagovasquez/login-with-facebook-phpnative/demo-example.png)
+![alt text](https://github.com/santiagovasquez/login-with-facebook-phpnative/blob/master/demo-example.png)
 
 # REQUIREMENTS:
 Php >= 5.6
