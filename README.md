@@ -12,9 +12,9 @@ Php >= 5.6
 
 Facebook Login It is a very interesting tool that allows to speed up the login in websites and applications. Thus, when we enter with our Facebook user, the application or website takes the data we have associated with the profile, such as: name, surname, age range, sex and email. The above turns out to be more agile and comfortable for the user as beneficial for the system administrator.
 
-View demo https://www.snippetdeveloper.com/demos/php-login-facebook/index.php
+View demo [https://www.snippetdeveloper.com/demos/php-login-facebook/index.php](https://www.snippet-developer.com/demos/php-login-facebook/index.php)
 
-See more http://www.snippetdeveloper.com/tools/login-with-facebook-phpnative
+See more [http://www.snippetdeveloper.com/tools/login-with-facebook-phpnative](https://www.snippet-developer.com/tools/login-with-facebook-phpnative)
 
 # Contact: 
 snippetdeveloper@gmail.com
